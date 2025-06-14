@@ -21,7 +21,7 @@ google_analytics: "UA-00000000-1"
 
 # GitHub Pages environment config
 github:
-  zip_url: https://github.com/davidchen/archive/refs/heads/main.zip
+  zip_url: https://github.com/davidkimai/davidchenai/archive/refs/heads/main.zip
   another_url: https://davidchenai.github.io
 
 # Site-wide metadata
