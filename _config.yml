@@ -22,12 +22,12 @@ google_analytics: "UA-00000000-1"
 # GitHub Pages environment config
 github:
   zip_url: https://github.com/davidchen/archive/refs/heads/main.zip
-  another_url: https://davidchen.github.io
+  another_url: https://davidchenai.github.io
 
 # Site-wide metadata
 show_downloads: false
 permalink: pretty
-url: "https://davidchen.github.io"
+url: "https://davidchenai.github.io"
 
 # Visual brand assets (optional)
 logo: /assets/logo.png
